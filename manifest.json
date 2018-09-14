@@ -1,0 +1,19 @@
+{
+    "name": "GitLab MR Page",
+    "version": "1.0",
+    "description": "Improve visibility of Merge Request pages of GitLab",
+    "permissions": [
+    ],
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://gitlab.com/*/merge_requests/*"
+            ],
+            "js": [
+                "jquery-3.3.1.min.js",
+                "improve-page.js"
+            ]
+        }
+    ]
+}
