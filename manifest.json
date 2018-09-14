@@ -13,6 +13,9 @@
             "js": [
                 "jquery-3.3.1.min.js",
                 "improve-page.js"
+            ],
+            "css": [
+                "improve-page.css"
             ]
         }
     ]

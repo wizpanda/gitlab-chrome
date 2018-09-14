@@ -15,6 +15,3 @@ function makeFullWidthMR() {
 $(document).ready(() => {
     makeFullWidthMR();
 });
-
-//layout-page page-gutter page-with-contextual-sidebar right-sidebar-collapsed
-//layout-page page-gutter page-with-contextual-sidebar right-sidebar-collapsed page-with-icon-sidebar
