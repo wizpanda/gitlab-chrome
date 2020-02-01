@@ -2,6 +2,10 @@
     overflow-x: auto;
 }
 
+.diff-files-holder {
+	max-width: 100% !important;
+}
+
 .diff-viewer > table td.line_content {
     min-width: 1100px !important;
 }
