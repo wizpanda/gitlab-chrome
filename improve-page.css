@@ -3,7 +3,7 @@
 }
 
 .diff-files-holder {
-	max-width: 100% !important;
+    max-width: 100% !important;
 }
 
 .diff-viewer > table td.line_content {
@@ -11,6 +11,6 @@
 }
 
 .code.white .err {
-	color: inherit !important;
-	background-color: inherit !important;
+    color: inherit !important;
+    background-color: inherit !important;
 }

@@ -1,6 +1,6 @@
 {
-    "name": "GitLab MR Page",
-    "version": "1.0",
+    "name": "GitLab Improve MR",
+    "version": "1.0.0",
     "description": "Improve visibility of Merge Request pages of GitLab",
     "permissions": [
     ],

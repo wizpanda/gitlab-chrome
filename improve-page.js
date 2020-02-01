@@ -1,3 +1,8 @@
+/**
+ * Sets the max-width of a container to 100% and removes a class ".limit-container-width" so that the "Merge Request" page can expand fully.
+ *
+ * @author Shashank Agrawal
+ */
 function makeFullWidthMR() {
     $('.container-fluid').css('max-width', '100%');
     $('.limit-container-width').removeClass('limit-container-width');
